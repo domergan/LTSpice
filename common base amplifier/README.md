@@ -9,3 +9,7 @@ This condition is achieved by the voltage-divider network consisting of resistor
 The voltage drop on R2 places the emitter at a positive potential with respect to the base.
 
 If a NPN transistor were used, we would only need to swap the battery.
+
+Sources:
+* <a id="1">[1]</a>  Department of the Army (1963) [1959], Basic Theory and Application of Transistors; Technical Manual 11-690, Dover, pp. 45 
+* <a id="2">[2]</a> https://www.electricalelibrary.com/en/2023/01/28/2-common-base-bjt-amplifier-projects/
